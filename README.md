@@ -1,4 +1,4 @@
-## Frosted Glass
+## Frosted Glass w/ Glasscord supported
 Display your picture of choice with adjustable blur and brightness. Dark theme is required.
 
 - - -
@@ -7,13 +7,13 @@ Powercord Install: `git clone https://github.com/DiscordStyles/FrostedGlass`
 - - -
 
 Server chat + User popout
-![Server Chat](https://i.imgur.com/Gr8JJAv.jpg)
+![Server Chat](https://i.imgur.com/Nk3xjeN.png)
 
 User modal
-![User Modal](https://i.imgur.com/xnUQ1Ek.jpg)
+![User Modal](https://i.imgur.com/ARXYKTm.png)
 
 User Settings
-![User Settings](https://i.imgur.com/qfMW8HI.jpg)
+![User Settings](https://i.imgur.com/vU9oJ8R.png)
 
 ## License
 
