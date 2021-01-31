@@ -169,10 +169,7 @@
 .scrollerThemed-2oenus.themeHidden-2yP93k .scroller-2FKFPG::-webkit-scrollbar-thumb,
 .scrollerThemed-2oenus.themeHidden-2yP93k .scroller-2FKFPG::-webkit-scrollbar-track {
   display: none !important;
-}
 
-::-webkit-input-placeholder, body, button, input, select, textarea {
-  font-family: var(--font, "Whitney");
 }
 
 #app-mount .tooltip-2QfLtc {
