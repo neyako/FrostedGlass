@@ -11,7 +11,6 @@
   --gradient: linear-gradient(var(--gradient-direction), rgb(var(--gradient-primary)), rgb(var(--gradient-secondary)));
   --gradient-20: linear-gradient(var(--gradient-direction), rgba(var(--gradient-primary), 0.2), rgba(var(--gradient-secondary), 0.2));
   --gradient-50: linear-gradient(var(--gradient-direction), rgba(var(--gradient-primary), 0.5), rgba(var(--gradient-secondary), 0.5));
-  --gradient-90: linear-gradient(var(--gradient-direction), rgba(var(--gradient-primary), 0.9), rgba(var(--gradient-secondary), 0.9));
   --text-shadow: 1;
   --chat-embed: var(--background-secondary);
   --discord-green: 67,181,129;
@@ -114,14 +113,8 @@
   color: var(--text-normal);
   margin-top: 0;
 }
-#app-mount .botText-1526X_ {
-  font-weight: 600;
-}
 #app-mount .botTagInvert-18-95s {
   color: rgb(var(--gradient-primary));
-}
-#app-mount .botTagInvert-18-95s .botText-1526X_ {
-  font-weight: bold;
 }
 
 ::selection {
@@ -170,12 +163,7 @@
 .scrollerThemed-2oenus.themeHidden-2yP93k .scroller-2FKFPG::-webkit-scrollbar-track {
   display: none !important;
 
-}
 
-#app-mount .tooltip-2QfLtc {
-  color: var(--text-normal);
-  text-align: center;
-  font-weight: 600;
 }
 #app-mount .tooltipPrimary-1d1ph4 {
   background: var(--gradient);
@@ -723,9 +711,6 @@
   background: var(--text-normal);
   color: rgb(var(--gradient-primary));
   margin-top: 0;
-}
-#app-mount .member-3-YXUe.selected-aXhQR6 .botText-1526X_ {
-  font-weight: 900;
 }
 #app-mount .member-3-YXUe.selected-aXhQR6 .premiumIcon-1rDbWQ {
   color: var(--text-normal);
@@ -1379,11 +1364,7 @@
 #app-mount .bd-card-footer button {
   background: var(--gradient);
 }
-#app-mount .bd-addon-links {
-  font-size: 0;
-}
 #app-mount .bda-link {
-  font-size: 10px;
   margin-right: 10px;
   background: var(--white);
   padding: 5px 10px;
@@ -1438,10 +1419,6 @@
 }
 #app-mount .ace_gutter {
   background: var(--background-secondary);
-}
-#app-mount .help-text,
-#app-mount span[style="font-size: 10px; margin-left: 5px;"] {
-  display: none;
 }
 #app-mount #bd-customcss-attach-controls {
   background: var(--background-secondary);
