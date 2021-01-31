@@ -1,6 +1,5 @@
 ## Frosted Glass w/ Glasscord supported
-Display your picture of choice with adjustable blur and brightness. Dark theme is required.
-
+Blur everything
 - - -
 BetterDiscord Download: [https://betterdiscord.net/ghdl?id=3359](https://betterdiscord.net/ghdl?id=3359)  
 Powercord Install: `git clone https://github.com/DiscordStyles/FrostedGlass`
