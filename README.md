@@ -2,7 +2,7 @@
 Blur everything
 - - -
 BetterDiscord Download: [https://betterdiscord.net/ghdl?id=3359](https://betterdiscord.net/ghdl?id=3359)  
-Glasscord: [https://github.com/AryToNeX/Glasscord](https://github.com/AryToNeX/Glasscord)
+Glasscord: [https://github.com/AryToNeX/Glasscord](https://github.com/AryToNeX/Glasscord)              
 Powercord Install: `git clone https://github.com/DiscordStyles/FrostedGlass`
 - - -
 
