@@ -2,6 +2,7 @@
 Blur everything
 - - -
 BetterDiscord Download: [https://betterdiscord.net/ghdl?id=3359](https://betterdiscord.net/ghdl?id=3359)  
+Glasscord: [https://github.com/AryToNeX/Glasscord](https://github.com/AryToNeX/Glasscord)
 Powercord Install: `git clone https://github.com/DiscordStyles/FrostedGlass`
 - - -
 
@@ -13,6 +14,9 @@ User modal
 
 User Settings
 ![User Settings](https://i.imgur.com/vU9oJ8R.png)
+
+Snap window
+![Snao](https://i.imgur.com/kmeZn39.png)
 
 ## License
 
